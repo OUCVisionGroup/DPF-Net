@@ -5,6 +5,7 @@
 
 <img src="./assets/results.png" width="90%" alt="teaser" align=center />
 
+<div id="top" align="left">
 ## ⚙️ Setup
 
 We ran our experiments with PyTorch 2.3.0, CUDA 12.1, Python 3.9.19 and Ubuntu 18.04.
