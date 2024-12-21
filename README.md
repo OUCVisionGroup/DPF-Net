@@ -17,7 +17,7 @@ Relative depth estimates for this project are based on Depth-Anything-V2, which 
 
 We mainly used the UIEB dataset. You can download the UIEB and  UIEB-Challenging dataset from [here](https://opendatalab.com/OpenDataLab/UIEB) and pre-convert the images to.jpg format. 
 
-As for Degraded Parameters Estimation Module (DPEM), you can download the NYU-Depth-V2 dataset from [here](https://opendatalab.com/OpenDataLab/NYUv2). The absolute depth scale of each image extracted is saved in the file *./DPEM/depth_scale.txt*.
+As for the training of Degraded Parameters Estimation Module (DPEM), you can download the NYU-Depth-V2 dataset from [here](https://opendatalab.com/OpenDataLab/NYUv2). The absolute depth scale of each image extracted is saved in the file *./DPEM/depth_scale.txt*.
 
 ## 📦 Models
 
