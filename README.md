@@ -57,7 +57,7 @@ You can train DPF-Net with:
 
 > python train.py \
 --raw_image_path /path/to/raw_images/folder \
---load_DPEM /path/to/checkpoint/DPEM_finetune \
+--load_DPEM /path/to/checkpoint/DPEM \
 --depth_anything_folder /path/to/depth_anything/folder
 
 Before training, place the raw images in a folder called *raw* and the reference images in a folder of the same level called *ref*.
