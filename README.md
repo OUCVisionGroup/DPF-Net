@@ -22,7 +22,9 @@ As for Degraded Parameters Estimation Module (DPEM), you can download the NYU-De
 ## 📦 Models
 
 You can download the model weights we provided [here](https://drive.google.com/drive/folders/1rZe1U5Sq0IrEFXv3vV6KUIIkVb5Qa4ON?usp=sharing), including:
--**DPEM**(trained on the synthetic data in the first stage)
--**DPEM_finetune** (fine-tuned at a low learning rate in the second stage)
--**DPF-Net** (for image enhancement)
--**Depth-Anything-V2** (for generating depth maps when data is loaded, you can also substitute other MDE models if you like)
+
+
+- **DPEM**(trained on the synthetic data in the first stage)
+- **DPEM_finetune** (fine-tuned at a low learning rate in the second stage)
+- **DPF-Net** (for image enhancement)
+- **Depth-Anything-V2** (for generating depth maps when data is loaded, you can also substitute other MDE models if you like)
