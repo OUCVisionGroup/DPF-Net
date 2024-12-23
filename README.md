@@ -33,11 +33,13 @@ You can download the model weights we provided [here](https://drive.google.com/d
 
 We recommend putting **DPF-Net.pth** and **DPEM_finetune.pth** in the *./checkpoint* folder and **depth_anything_v2_vits.pth** in *the ./Depth_Anything_V2_main* folder. You can test DPF-Net with:
 
-> python test.py \
+```shell
+python test.py \
 --raw_image_path /path/to/raw_images/folder \
 --load_DPF_Net /path/to/checkpoint/DPF-Net \
 --load_DPEM /path/to/checkpoint/DPEM_finetune \
 --depth_anything_folder /path/to/depth_anything/folder
+```
 
 Enhancement results are saved in *./out_images* (automatically created if the folder does not already exist)
 
