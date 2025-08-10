@@ -54,4 +54,4 @@ python train.py \
 --depth_anything_folder /path/to/depth_anything/folder
 ```
 
-The trained model will be saved in the ./checkpoint folder
+The trained models will be saved in the ./checkpoint folder
