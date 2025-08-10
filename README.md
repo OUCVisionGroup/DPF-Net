@@ -45,4 +45,13 @@ Enhancement results are saved in *./out_images* (automatically created if the fo
 
 ## 🕒Train
 
-The training code will be released soon!
+You can train DPF-Net with:
+
+```shell
+python train.py \
+--raw_image_path /path/to/raw_images/folder \
+--load_DPEM /path/to/checkpoint/DPEM_finetune \
+--depth_anything_folder /path/to/depth_anything/folder
+```
+
+The trained model will be saved in the ./checkpoint folder
