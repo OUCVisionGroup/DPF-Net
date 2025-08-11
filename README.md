@@ -55,3 +55,19 @@ python train.py \
 ```
 
 The trained models will be saved in the ./checkpoint folder
+
+## 🖇️Citation
+
+```shell
+@article{MEI2025679,
+title = {DPF-Net: Physical imaging model embedded data-driven underwater image enhancement},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {228},
+pages = {679-693},
+year = {2025},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2025.07.031},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271625003016},
+author = {Han Mei and Kunqian Li and Shuaixin Liu and Chengzhi Ma and Qianli Jiang}
+}
+```
