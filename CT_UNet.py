@@ -6,7 +6,7 @@ import math
 from timm.models.layers import DropPath
 import torch.optim as optim
 import itertools
-from models import MAB
+
 
 class DoubleConv(nn.Module):
     def __init__(self, in_channels, out_channels):
