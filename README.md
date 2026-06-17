@@ -21,7 +21,7 @@ As for the training of Degraded Parameters Estimation Module (DPEM), you can dow
 
 ## 📦 Models
 
-You can download the model weights we provided [here](https://pan.baidu.com/s/16uJspiptmDNMoDHzpXSXxw?pwd=p8d8), including:
+You can download the model weights we provided [here](https://drive.google.com/drive/folders/1rZe1U5Sq0IrEFXv3vV6KUIIkVb5Qa4ON?usp=drive_link), including:
 
 
 - **DPEM**(trained on the synthetic data in the first stage)
